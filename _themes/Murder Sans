@@ -1,0 +1,22 @@
+title: {Murder Sans} #*
+author: {GitSmashed} #*
+github: https://github.com/
+description_markdown: >- #* Markdown is allowed
+  Original Picture By: dupsmj9610 (on DA)
+download: https://github.com/ #* Github isn't required but if it isn't used then further inspection will happen
+support: # A link to allow people to get support or give feedback for the theme
+demo: https://rawgit.com/ # The demo needs to be a direct link to the theme's file. Rawgit is recommended
+style: dark # For demo only. This chooses if you want the Light or Dark discord demo for your theme. Lowercase is only allowed. 
+tags:
+software: # The list of softwares your theme supports (remove if you don't support it)
+  - EnhancedDiscord
+  - BandagedBD
+  - BetterDiscord
+  - DiscordInjections
+images:
+  - name: {Murder Sans} Preview
+    https://www.deviantart.com/dupsmj9610/art/murder-sans-627915951further inspection will happen
+  - name: {Murder Sans} Preview - {murder sans}
+    https://www.deviantart.com/dupsmj9610/art/murder-sans-627915951further inspection will happen
+layout: product #* DON'T CHANGE
+ghcommentid: #0
